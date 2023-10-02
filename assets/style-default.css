@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  background-color: rgba(185, 179, 177, 0.877);
+  font-family: "kanit", sans-serif;
+}
+
+p{
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 576px) {
+  .border-lg-start-0 {
+    border-left: none !important;
+  }
+  .border-lg-top-4 {
+    border-top: 4px solid black !important;
+    /* background-color: antiquewhite !important; */
+  }
+}
+@media screen and (min-width: 768px) {
+  .border-lg-start-0,.C {
+    border-left: none !important;
+  }
+  .border-lg-top-4,.D {
+    border-top: 4px solid black !important;
+    /* background-color: antiquewhite !important; */
+  }
+}
+
+
+@media screen and (min-width: 992px) {
+  .border-lg-start-0,.A {
+    border-left: none !important;
+  }
+  .border-lg-top-4,.B {
+    border-top: 4px solid black !important;
+    /* background-color: antiquewhite !important; */
+  }
+}
+@media screen and (min-width: 1200px) {
+  .border-lg-start-0,.E {
+    border-left: none !important;
+  }
+  .border-lg-top-4,.F {
+    border-top: 4px solid black !important;
+    /* background-color: antiquewhite !important; */
+  }
+}
+@media screen and (min-width: 1400px) {
+  .border-lg-start-0,.G {
+    border-left: none !important;
+  }
+  .border-lg-top-4,.H {
+    border-top: 4px solid black !important;
+    /* background-color: antiquewhite !important; */
+  }
+}
